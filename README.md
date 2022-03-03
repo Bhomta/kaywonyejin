@@ -7,7 +7,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaywonyejin&count_bg=%23A9F4F5&title_bg=%23F1A2FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img src="https://img.shields.io/badge/Minecraft-#62B47A?style=flat-square&logo=Minecraft&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Minecraft-62B47A?style=flat-square&logo=Minecraft&logoColor=white"/></a>
 
 
 
